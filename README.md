@@ -1,5 +1,9 @@
 # Bluetooth Music Player
 
+<p>
+<img src="docs/screenshot.png" width="220" alt="Bluetooth Music Player" />
+</p>
+
 A beginner Android project for learning **Bluetooth** by building a small media player that can find headphones, pair with them, and play one local MP3 track.
 
 **Goal so far:** scan for nearby Bluetooth devices, show them in a simple UI, pick headphones to pair with, then play `studymusic.mp3` from `res/raw`.
